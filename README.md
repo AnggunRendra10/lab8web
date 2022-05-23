@@ -84,6 +84,3 @@ Buat file baru dengan nama ubah.php
 ![gambar](https://user-images.githubusercontent.com/101658076/169800686-b682d4d2-3ab6-4f38-8f07-4db8136de5d2.png)
 
 ![gambar](https://user-images.githubusercontent.com/101658076/169800771-8b899e67-135b-43ad-9441-0934210ecfbb.png)
-
-
-
